@@ -14,4 +14,4 @@ Join us on our journey towards Neural Dream - a vision of transforming neural in
 
 ### Compute Infrastructure
 
-Our facilities are not mature yet, we have a Ryzen 5 5600 CPU + 48 GB RAM as training engine and Nvidia Jetson Nano for inference engine. We occasionally use cloud instances for large models from Google Cloud.
+Our facilities are not mature yet, we have an AMD Ryzen 5 5600 CPU + 48 GB RAM as training engine and Nvidia Jetson Nano for inference engine. We occasionally use cloud instances for large models from Google Cloud.
