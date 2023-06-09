@@ -11,3 +11,7 @@ This vision of Neural Dream extends far beyond the traditional confines of gener
 Neural Dream represents a paradigm shift in AI creativity, opening up unprecedented possibilities in fields such as entertainment, design, virtual reality, and even mental health. It’s not just about creating an algorithm that can mimic or remix existing visuals; it's about envisaging a future where technology can dream, abstract, and create in ways that rival human creativity.
 
 Join us on our journey towards Neural Dream - a vision of transforming neural interactions into a captivating landscape of AI dreams. We invite you to explore the possibilities of what AI can truly achieve. Neural Dream is not a reality yet, but we believe in the potential of this vision to reshape the AI world. We're excited to share this dream with you.
+
+### Compute Infrastructure
+
+Our facilities are not mature yet, we have a Ryzen 5 5600 CPU + 48 GB RAM as training engine and Nvidia Jetson Nano for inference engine. We occasionally use cloud instances for large models from Google Cloud.
