@@ -15,3 +15,8 @@ Join us on our journey towards Neural Dream - a vision of transforming neural in
 ### Compute Infrastructure
 
 Our facilities are not mature yet, we have an AMD Ryzen 5 5600 CPU + 48 GB RAM as training engine and Nvidia Jetson Nano for inference engine. We occasionally use cloud instances for large models from Google Cloud.
+
+## Milestones
+### 1-) [Image Upsampling](https://github.com/NeuralDreamResearch/ImageUpsampling)
+📅 13 July 2023
+Image upsampling model upsample images from 1080p to 4K resolution. The model was trained on only 1 image and can deliver substential performance.
