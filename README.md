@@ -19,4 +19,4 @@ Our facilities are not mature yet, we have an AMD Ryzen 5 5600 CPU + 48 GB RAM a
 ## Milestones
 ### 1-) [Image Upsampling](https://github.com/NeuralDreamResearch/ImageUpsampling)
 📅 13 July 2023
-Image upsampling model upsample images from 1080p to 4K resolution. The model was trained on only 1 image and can deliver substential performance.
+Image upsampling model upsample images from 1080p to 4K resolution. The model was trained on only 1 image and can deliver substantial performance.
