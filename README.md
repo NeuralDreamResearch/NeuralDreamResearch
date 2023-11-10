@@ -13,8 +13,16 @@ Neural Dream represents a paradigm shift in AI creativity, opening up unpreceden
 Join us on our journey towards Neural Dream - a vision of transforming neural interactions into a captivating landscape of AI dreams. We invite you to explore the possibilities of what AI can truly achieve. Neural Dream is not a reality yet, but we believe in the potential of this vision to reshape the AI world. We're excited to share this dream with you.
 
 ### Compute Infrastructure
-
-Our facilities are not mature yet, we have an AMD Ryzen 5 5600 CPU + 48 GB RAM as training engine and Nvidia Jetson Nano for inference engine. We occasionally use cloud instances for large models from Google Cloud.
+   Neural Dream Research requires immense computational power for rapid development and testing. This is our current infrastructure handles tasks.
+#### Main Workstation:
+- This computer includes Ryzen 5 5600 + 48 GB DDR4 3333 MT/s OC + **RTX 3070** + HD 4650
+- Dual GPU provides less memory usage on RTX 3070. HD 4650 is allocated for display tasks and RTX 3070 is for computational workloads
+#### Nvidia Jetson Nano
+- This computer is for deploying inference engines on the line.
+- Tegra model provides unified memory for both CPU and GPU
+#### FPGAs & SoC
+- FPGA's are the most recently adopted compute units of our infrastructure. They provide very low latency computation on some tasks.
+- FPGA's provides test&development environment model for new algorithms and architectures
 
 ## Milestones
 ### 1-) [Image Upsampling](https://github.com/NeuralDreamResearch/ImageUpsampling)
