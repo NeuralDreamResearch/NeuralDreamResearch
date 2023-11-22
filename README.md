@@ -29,3 +29,8 @@ Join us on our journey towards Neural Dream - a vision of transforming neural in
 📅 13 July 2023
 
 Image upsampling model upsample images from 1080p to 4K resolution. The model was trained on only 1 image and can deliver substantial performance.
+
+### 2-) [Digital Soul - Core Pre-Release](https://github.com/NeuralDreamResearch/DigitalSoul)
+📅 11 November 2023
+
+Unified platform for CPU, GPU, FPGA and Quantum Computation. First pre-release includes basic utilities for LookUp Table computation and basic quantum simulation utilities
