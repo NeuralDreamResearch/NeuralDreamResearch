@@ -15,7 +15,7 @@ Join us on our journey towards Neural Dream - a vision of transforming neural in
 ### Compute Infrastructure
    Neural Dream Research requires immense computational power for rapid development and testing. This is our current infrastructure handles tasks.
 #### Main Workstation:
-- This computer includes Ryzen 5 5600 + 48 GB DDR4 3333 MT/s OC + **RTX 3070** + HD 4650
+- This computer includes Ryzen 5 5600 + 48 GB DDR4 3333 MT/s OC + **RTX 3070 + RTX 2080** + HD 4650
 - Dual GPU provides less memory usage on RTX 3070. HD 4650 is allocated for display tasks and RTX 3070 is for computational workloads
 #### Nvidia Jetson Nano
 - This computer is for deploying inference engines on the line.
