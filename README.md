@@ -15,11 +15,12 @@ Image upsampling model upsample images from 1080p to 4K resolution. The model wa
 📅 11 November 2023
 
 Unified platform for CPU, GPU, FPGA and Quantum Computation. First pre-release includes basic utilities for LookUp Table computation and basic quantum simulation utilities
-<hr>
+
 ### 3-) [Starknet Airdrop Received](https://www.starknet.io/en/content/starknet-provisions-program)
-📅 20 February 2023
+📅 20 February 2024
 
 Starknet Foundation distributed 700 M STRK. Neural Dream Research's founder and owner of Ali Hakim Taşkıran received 111.1 STRK by contributing at least 3 times to non-crypto top 5000 open source projects. We are especially thankful to Starknet Foundation. This also incentivized us to develop web3 enhanced HPC and AI applications on top of Starknet blockchain.
+<hr>
 
 
 ## Compute Infrastructure
