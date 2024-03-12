@@ -20,13 +20,14 @@ Unified platform for CPU, GPU, FPGA and Quantum Computation. First pre-release i
 📅 20 February 2024
 
 Starknet Foundation distributed 700 M STRK. Neural Dream Research's founder and owner of Ali Hakim Taşkıran received 111.1 STRK by contributing at least 3 times to non-crypto top 5000 open source projects. We are especially thankful to Starknet Foundation. This also incentivized us to develop web3 enhanced HPC and AI applications on top of Starknet blockchain.
-<hr>
 
 ### 4-) [Digital Soul - Python Edition Pre-Release](https://github.com/NeuralDreamResearch/DigitalSoul)
 📅 12 March 2024
 
 <img src="https://github.com/NeuralDreamResearch/DigitalSoulPy/blob/main/Logo.png?raw=true" height=100>
 Digital Soul is now migrated into Python. New version of Digital Soul uses numpy, cupy and tensorflow as backend; implements vhdl transpiler and quantum simulator in itself. Pre-release includes generic computational graph and implementation of logical functions. The library is able to expand by defining computational functions on nodes.
+
+<hr>
 
 ## Compute Infrastructure
    Neural Dream Research requires immense computational power for rapid development and testing. This is our current infrastructure handles tasks.
