@@ -27,7 +27,7 @@ Starknet Foundation distributed 700 M STRK. Neural Dream Research's founder and 
    Neural Dream Research requires immense computational power for rapid development and testing. This is our current infrastructure handles tasks.
 ### Main Workstation:
 - This computer includes Ryzen 5 5600 + 48 GB DDR4 3333 MT/s OC + **2xRTX 3070 + RTX 2080**
-- Triple GPU provides less memory usage on compute-dedicated GPUs. HD 4650 is allocated for display tasks and RTX 3070 is for computational workloads
+- Triple GPU provides less memory usage on compute-dedicated GPUs. HRT 2080 is allocated for display tasks and 2xRTX 3070s is for computational workloads
 ### Nvidia Jetson Nano
 - This computer is for deploying inference engines on the line.
 - Tegra model provides unified memory for both CPU and GPU
