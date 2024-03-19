@@ -24,7 +24,7 @@ Starknet Foundation distributed 700 M STRK. Neural Dream Research's founder and 
 ### 4-) [Digital Soul - Python Edition Pre-Release](https://github.com/NeuralDreamResearch/DigitalSoul)
 📅 12 March 2024
 
-<img src="https://github.com/NeuralDreamResearch/DigitalSoulPy/blob/main/Logo.png?raw=true" height=100>
+<img src="https://github.com/NeuralDreamResearch/DigitalSoulPy/blob/main/Logo.jpeg?raw=true" height=100>
 Digital Soul is now migrated into Python. New version of Digital Soul uses numpy, cupy and tensorflow as backend; implements vhdl transpiler and quantum simulator in itself. Pre-release includes generic computational graph and implementation of logical functions. The library is able to expand by defining computational functions on nodes.
 
 <hr>
