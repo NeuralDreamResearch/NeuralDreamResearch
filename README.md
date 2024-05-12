@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/NeuralDreamResearch/NeuralDream/blob/main/NeuralDream%20-%20logo.png?raw=true)
 
-Neural Dream Research is a private research organization dedicated to the exploration of computational systems and artificial intelligence. Our mission is to design novel hardware accelerators and efficiently utilize them to create the next generation of AI. We are at the forefront of technological advancements, pushing the boundaries of what is possible in the realm of computation and artificial intelligence.
+Neural Dream Research is a private research organization dedicated to the exploration of computational systems and intelligence. Our mission is to design novel hardware accelerators and efficiently utilize them to create the next generation of AI. We are at the forefront of technological advancements, pushing the boundaries of what is possible in the realm of computation and artificial intelligence.
 
 
 ## Milestones
