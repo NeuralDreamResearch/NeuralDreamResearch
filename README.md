@@ -32,7 +32,7 @@ Digital Soul is now migrated into Python. New version of Digital Soul uses numpy
 ## Compute Infrastructure
    Neural Dream Research requires immense computational power for rapid development and testing. This is our current infrastructure handles tasks.
 ### Main Workstation:
-- This computer includes Ryzen 5 5600 + 48 GB DDR4 3333 MT/s OC + **2xRTX 3070 + RTX 2080**
+- This computer includes Ryzen 5 5600 + 64 GB DDR4 3333 MT/s OC + **2xRTX 3070 + RTX 2080**
 - Triple GPU provides less memory usage on compute-dedicated GPUs. RTX 2080 is allocated for display tasks and 2xRTX 3070s is for computational workloads
 ### Nvidia Jetson Nano
 - This computer is for deploying inference engines on the line.
